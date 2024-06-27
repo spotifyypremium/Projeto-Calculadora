@@ -1,5 +1,5 @@
 body {
-    background: #99f1cf;
+    background: #b399f1;
 }
 
 .wrapper{
@@ -8,7 +8,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: #272c2b;
+    background: #29272c;
     padding: 50px;
     color: #fff;
     text-align: center;
@@ -26,7 +26,7 @@ input[type='text']{
 }
 
 button {
-    background-color: #81ffe6;
+    background-color: #ba81ff;
     border: none;
     color: #fff;
     display: inline-block;
@@ -44,7 +44,7 @@ input[type='radio']{
 }
 
 b{
-    font-size: 30px;
+    font-size: 25px;
 }
 
 #result{
